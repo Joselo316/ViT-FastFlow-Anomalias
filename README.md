@@ -57,7 +57,7 @@ cd ViT-FastFlow-Anomalias
 2. Abre el notebook:
 
 ```bash
-jupyter notebook ViT_FastFlow_Completo.ipynb
+jupyter notebook ViT_FastFlow.ipynb
 ```
 
 3. Edita la variable `image_path` en la sección de **Inferencia** para analizar una imagen específica y generar su **heatmap**.
@@ -69,8 +69,6 @@ jupyter notebook ViT_FastFlow_Completo.ipynb
 - **Clasificación de tablero**: predicción de la clase (0, 1, 2, …).  
 - **Defecto**: indica si la placa es defectuosa o no.  
 - **Heatmap**: visualización superpuesta en la imagen original.
-
-![example](https://user-images.githubusercontent.com/0000000/example-heatmap.png)
 
 ---
 
