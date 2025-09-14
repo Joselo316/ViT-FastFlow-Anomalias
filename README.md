@@ -1,4 +1,4 @@
-# 🧠 ViT + FastFlow para Detección de Anomalías en Placas MDP
+# ViT + FastFlow para Detección de Anomalías en Placas MDP
 
 Este proyecto implementa un sistema de **detección de anomalías** en tableros **MDP** utilizando **Vision Transformer (ViT)** combinado con **FastFlow**.  
 Además de detectar defectos, el modelo también **clasifica el tipo de tablero** y genera **heatmaps** para visualizar las áreas más relevantes.
